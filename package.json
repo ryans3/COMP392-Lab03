@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP392-Lab3.git"
+    "url": "git+https://github.com/ryans3/COMP392-Lab03.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Ryan Sterling",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP392-Lab3/issues"
+    "url": "https://github.com/ryans3/COMP392-Lab03.git/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP392-Lab3#readme"
+  "homepage": "https://github.com/ryans3/COMP392-Lab03.git#readme"
 }
